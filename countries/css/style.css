@@ -1,0 +1,114 @@
+header{
+	text-align:center;
+	padding:20px;
+	background-image:url("https://image.cnbcfm.com/api/v1/image/105991548-1561646968728gettyimages-1157890006.jpeg?v=1583983002&w=740&h=416");
+	background-repeat:repeat;
+	background-position: center;
+	background-color: #002211;
+}
+header h1{
+	border:2px solid #000000;
+	background-color: #000000;
+	color:#ffffff;
+	border-radius:3px;
+}
+.left{
+	float:left;	
+	color:blue;
+	margin:10px;
+}
+.right{
+	float:left;
+	display: inline-block;
+	margin-left:9px;
+	width:75%;
+	margin-left:10px;
+	font-size:150%;
+}
+td a{
+	text-decoration: none;
+}
+td a:hover{
+	color:red;
+}
+td{
+	background: #cccccc;
+	font-size: 20px;
+	padding:20px;
+	margin: 3px;
+	text-align:center; 
+}
+.right{
+	float:left;
+}
+.countries{
+	background: #FFFFFF;
+	padding:0px;
+	margin-left: 50px;
+	float:left;
+}
+.countries td{
+	text-transform: uppercase;
+	background: #ff9966;
+	font-size: 20px;
+	padding:10px;
+	margin: 1px;
+	text-align:center;
+	color: #000099;
+}
+.countries td{
+	opacity:0.7; 
+}
+.countries td:hover{
+	opacity:1; 
+}
+
+.countries td a:hover{
+	color:#330000;
+}
+
+.plot{
+	margin:100px;
+	float:left;
+}
+img{
+	height:500px;
+	width:900px;
+	margin-left:100px;	
+}
+td .active{
+	background:#ffffff;
+	opacity: 1;
+
+}
+.content{
+	float:left;
+	margin-left:20px;
+	margin-top:0px;
+}
+.content p{
+	color:#00b300;
+	margin-left:60px;
+	margin-right:80px;
+	text-align:justify;
+	text-justify:auto;
+	font-size: 25px;
+}
+#note{
+	font-size:20px;
+}
+.plot img{
+	height:500px;
+	width:1000px;
+}
+h2{
+	text-align: center;
+	border:2px solid #000000;
+	border-radius:10px;
+	front-family:arial;
+	background-image: linear-gradient(to right, red , yellow);
+	opacity: 0.6;
+}
+h2:hover{
+	opacity: 1;
+}
